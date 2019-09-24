@@ -1,5 +1,3 @@
-CONTRIBUTOR CODE
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -57,7 +55,7 @@ a project may be further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at yasar_shaikh[at]mail[dot]com. All
+reported by contacting the project team at yasar_shaikh@mail.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
