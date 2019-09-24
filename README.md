@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A Probot App, part of GitHub training program. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This will help you to go through different git features. You can learn actual hands-on with this program. 
 
 ## Getting started
 
